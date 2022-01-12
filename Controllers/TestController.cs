@@ -25,6 +25,7 @@ namespace sample45.Controllers
 
         public IActionResult Privacy()
         {
+            string name="Vasantha GUdaru";
             return View();
         }
 
